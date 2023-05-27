@@ -59,9 +59,9 @@ ssr://MTk1LjE1NC4xMTguNDA6NDQzOm9yaWdpbjphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dG
 
 VLESS
 
+vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@speed.cloudflare.com:8080/?type=ws&encryption=none&host=b2.iraniancp.click&path=%2F%3Fed%3D2048#Iranian%2BCypherpunks%2B8080
 vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@lars.ns.cloudflare.com:8443/?type=ws&encryption=none&host=b4.iraniancp.click&path=%2F%3Fed%3D2048&security=tls&sni=iraniancp.click#Iranian%2BCypherpunks%2B8443
 vless://9d1c4003-5b9a-4552-c98f-4eaaffe4ada9@93.88.74.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=firefox&security=reality&pbk=Uhr5tVbWMaOSidsMcNxdBnM2OzO37nH106cPdmIoI1I&sid=d4dd377e#ICP%20REALITY
-
 
 
 TROJAN
