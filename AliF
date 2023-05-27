@@ -2,81 +2,40 @@
 
 MIXED ADSL
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a3VkNWhu@158.69.122.231:80#%F0%9F%87%A8%F0%9F%87%A6CA-158.69.122.231-0618
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#%F0%9F%87%B3%F0%9F%87%B1NL-213.108.110.238-0693
-trojan://EaklYS69k8@big.viiipking.info:25968/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AADE-138.201.207.4-0161
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@43.207.172.213:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.172.213-0070
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awssg1-tg-data.amazonwebservicess.com:443/?type=tcp&security=tls&sni=data.amazonwebservicess.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.214.161.88-0173
+trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@us.disnet.gq:443/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-192.9.130.66-0141
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#%F0%9F%87%B3%F0%9F%87%B1NL-37.218.240.154-2336
+trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@168.119.64.242:443/?type=tcp&security=tls&sni=channel1.unlimiteddev.tk#%F0%9F%87%A9%F0%9F%87%AADE-168.119.64.242-2242
+trojan://a5117e42-e7e2-4de1-aea8-c41e2b3bc545@jp2.cnamazon.sbs:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.124.69-0801
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp1-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.168.70-2309
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awsjp18-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.193.217-1770
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awsjp16-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.64.182-0800
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.152.124-2306
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awsjp1-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.168.70-0802
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.152.124-0807
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@43.207.197.172:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.197.172-0799
+trojan://60454f67-7e28-4ddd-855f-e8216dfedf5a@awsjp2.gsjc.cfd:443/?type=tcp&security=tls&sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AD%F0%9F%87%B0HK-43.198.105.218-4884
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awskr2-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.76.33-0814
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@awskr4-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B0%F0%9F%87%B7KR-43.200.177.5-0813
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@awshk17-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AD%F0%9F%87%B0HK-16.163.1.43-0820
+trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@hk5.cnamazon.sbs:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.51.238-0821
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awshk7-tg-data.amazonwebservicess.com:443/?type=tcp&security=tls&sni=data.amazonwebservicess.com#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.50.230-0832
 trojan://794d739c-89a0-444c-b2e7-acce12af3042@awssg17-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.159.193-0168
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@43.206.255.205:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.255.205-0066
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awssg15-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.46.192-0105
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awskr2-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.76.33-0190
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp3-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.136.7-0062
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp15-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.250.70-0183
-trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:3052/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-0777
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:804#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-0767
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a3VkNWhu@158.69.122.231:80#%F0%9F%87%A8%F0%9F%87%A6CA-158.69.122.231-0601
-trojan://b9fcb525-f308-4e21-a8a6-08bc40cdbba0@cxf.sz-jhsee.com:7022/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-198.52.122.158-0148
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:811#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-4206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:805#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-3863
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:812#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-4208
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:801#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-3829
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:804#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-3858
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:808#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-4189
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:811#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-4203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:802#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-4204
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@13.215.177.20:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.177.20-0831
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awshk7-tg-data.amazonwebservicess.com:443/?type=tcp&security=tls&sni=data.amazonwebservicess.com#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.50.230-2282
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awssg19-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.177.20-0828
+trojan://aef8d2c4-6ff7-4cc1-8d14-8596d3426223@vn1.microsoft-orgwly.vip:443/?type=tcp&security=tls&sni=tls.microsoft-orgwly.vip#%F0%9F%87%BB%F0%9F%87%B3VN-103.186.149.244-0405
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awssg7-tg-data.amazonwebservicess.com:443/?type=tcp&security=tls&sni=data.amazonwebservicess.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.163.108-2353
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awssg20-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.200.63-1950
+trojan://b31eb45e-7f95-465f-8229-716058f6dc49@sihai.cnamazon.sbs:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%F0%9F%87%AD%F0%9F%87%B0HK-42.3.78.86-0823
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:804#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-0816
+trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@168.119.64.242:443/?type=tcp&security=tls&sni=channel1.unlimiteddev.tk#%F0%9F%87%A9%F0%9F%87%AADE-168.119.64.242-2251
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.178.87.37:810#%F0%9F%87%AB%F0%9F%87%B7FR-51.178.87.37-0844
 
 
 
 
 MIXED IRANCELL
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a3VkNWhu@158.69.122.231:80#%F0%9F%87%A8%F0%9F%87%A6CA-158.69.122.231-0618
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@104.243.25.95:253#%F0%9F%87%BA%F0%9F%87%B8US-104.243.25.95-0628
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqNHdrSXJyZUhFZEM@37.218.241.130:443#%F0%9F%87%BA%F0%9F%87%B8US-37.218.241.130-0617
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqNHdrSXJyZUhFZEM@37.218.241.130:443#%F0%9F%87%BA%F0%9F%87%B8US-37.218.241.130-2414
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@74.121.191.98:989#%F0%9F%87%BA%F0%9F%87%B8US-74.121.191.98-0729
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@185.88.140.37:8080#%F0%9F%87%B3%F0%9F%87%B1NL-185.88.140.37-12134
-trojan://EaklYS69k8@big.viiipking.info:25968/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AADE-138.201.207.4-0161
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.199.196:443#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.199.196-4934
-ssr://NTQuMTgwLjg2LjUwOjY5ODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46U0hWamJHOTFaREV5Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9OEotSHNQQ2ZoN2RMVWkwMU5DNHhPREF1T0RZdU5UQXRNVEl6TlRj
-trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:3052/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-8708
-ssr://cGxheXdlYi5tbDo2OTgzOm9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOlNIVmpiRzkxWkRFeS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPThKLUhzUENmaDdkTFVpMDFOQzR4T0RBdU9EWXVOVEF0TVRJek5UZw
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@43.206.255.205:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.255.205-10444
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awssg1-tg-data.amazonwebservicess.com:443/?type=tcp&security=tls&sni=data.amazonwebservicess.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.214.161.88-0173
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awssg17-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.159.193-0168
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@43.206.255.205:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.255.205-0066
-trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:443/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-2248
-trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:443/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-0761
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@194.116.173.21:9038#%F0%9F%87%BA%F0%9F%87%B8US-194.116.173.21-2363
-trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:3052/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-0777
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989#%F0%9F%87%A7%F0%9F%87%A6BA-185.164.35.9-0733
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.141.14:7001#%F0%9F%87%BA%F0%9F%87%B8US-169.197.141.14-8572
-
-trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@us.disnet.gq:443/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-192.9.130.66-0536
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.236.64.213:443#%F0%9F%87%BA%F0%9F%87%B8US-18.236.64.213-9237
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.213.121.112:443#%F0%9F%87%BA%F0%9F%87%B8US-54.213.121.112-0563
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.189.189.17:443#%F0%9F%87%BA%F0%9F%87%B8US-54.189.189.17-0569
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqNHdrSXJyZUhFZEM@37.218.241.130:443#%F0%9F%87%BA%F0%9F%87%B8US-37.218.241.130-2206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a3VkNWhu@158.69.122.231:80#%F0%9F%87%A8%F0%9F%87%A6CA-158.69.122.231-0601
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY@65.49.223.117:239#%F0%9F%87%BA%F0%9F%87%B8US-65.49.223.117-0583
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@179.49.5.114:989#%F0%9F%87%AA%F0%9F%87%A8EC-179.49.5.114-0612
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.206.240.122:443#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.240.122-2343
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@74.121.191.98:989#%F0%9F%87%BA%F0%9F%87%B8US-74.121.191.98-0606
-ss://Y2hhY2hhMjAtaWV0ZjpIdWNsb3VkMTI@playweb.ml:6983#%F0%9F%87%B0%F0%9F%87%B7KR-15.164.251.125-0664
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.113-0627
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ@139.162.236.79:8099#%F0%9F%87%AC%F0%9F%87%A7GB-139.162.236.79-0653
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.250.127.127:443#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.127.127-5415
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.142.255.196:443#%F0%9F%87%B8%F0%9F%87%ACSG-18.142.255.196-0710
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:812#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-4208
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:801#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-3829
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:808#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-4189
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:811#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-4203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:802#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-4204
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989#%F0%9F%87%A7%F0%9F%87%A6BA-185.164.35.9-9624
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-9706
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-3818
 
 
 
@@ -85,9 +44,72 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#%F0%9F%87%BB%F0%9F
 
 
 
-START.ME
 
+****** Bardia ******
+
+ SSR 
  
+ssr://ejAxMTcuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9OEotSHVQQ2ZoNnBUUlMweE15NDBPQzQxTlM0eE5EWXRNREUyTVE
+ssr://ejAxMTYuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3Lz9vYmZzcGFyYW09ZDNkM0xtMXBZM0p2YzI5bWRDNWpiMjBqVlhObGNpMUJaMlZ1ZERwTmIzcHBiR3hoTHpVdU1DaHBVR2h2Ym1VN1ExQlZhVkJvYjI1bFQxTXhNVjgwWHpGc2FXdGxUV0ZqVDFOWUtVRndjR3hsVjJWaVMybDBMell3TWk0MExqWW9TMGhVVFV3c2JHbHJaVWRsWTJ0dktWWmxjbk5wYjI0dk1UQXVNRTF2WW1sc1pTOHhORVF5TjAxcFkzSnZUV1Z6YzJWdVoyVnlMell1TlM0eE0wRmpZMlZ3ZERvdlEyOXVibVZqZEdsdmJqcHJaV1Z3TFdGc2FYWmwmcHJvdG9wYXJhbT0mcmVtYXJrcz04Si1IcnZDZmg2cEpSUzB6TkM0eU5Ea3VNakkyTGpFNU5TMDBNelF3
+ssr://ejAxMTMuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9OEotSHB2Q2ZoN3BCVlMwMU1pNDJNaTR5TlRNdU1qUXhMVFExTXpZ
+ssr://ejAxMTUuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9OEotSHFQQ2ZoNlpEUVMweE5TNHlNakl1TWpVMExqSTBOUzB3TVRrMg
+ssr://MTk1LjE1NC4xMTguNDA6NDQzOm9yaWdpbjphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6VG1WM1FubHdZWE56WlhJeU1ESXovP29iZnNwYXJhbT1ZMlJ1TG1Gd2NITm1iSGxsY2k1amIyMCZwcm90b3BhcmFtPSZyZW1hcmtzPThKLUhxX0NmaDdkR1VpMHhPVFV1TVRVMExqRXhPQzQwTUMwd01UTXo
+
+
+
+VLESS
+
+vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@lars.ns.cloudflare.com:8443/?type=ws&encryption=none&host=b4.iraniancp.click&path=%2F%3Fed%3D2048&security=tls&sni=iraniancp.click#Iranian%2BCypherpunks%2B8443
+vless://9d1c4003-5b9a-4552-c98f-4eaaffe4ada9@93.88.74.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=firefox&security=reality&pbk=Uhr5tVbWMaOSidsMcNxdBnM2OzO37nH106cPdmIoI1I&sid=d4dd377e#ICP%20REALITY
+
+
+
+TROJAN
+
+trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@185.162.231.170:443/?type=grpc&serviceName=0vH3nsO64xdVFlBvo7mNR3BzQP&security=tls&sni=channel3.unlimiteddev.tk&alpn=h2#tls_h2_grpc_CDN_trojan_cdn-ip
+trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@185.162.231.170:443/?type=ws&host=channel3.unlimiteddev.tk&path=%2F0vH3nsO64xdVFlBErewnEN&security=tls&sni=channel3.unlimiteddev.tk&alpn=http%2F1.1#tls_WS_CDN_trojan_cdn-ip
+trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@185.162.231.170:443/?type=grpc&serviceName=0vH3nsO64xdVFlBvo7mNR3BzQP&security=tls&sni=channel3.unlimiteddev.tk&alpn=http%2F1.1#tls_grpc_CDN_trojan_cdn-ip
+trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@us.disnet.gq:443/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-192.9.130.66-0141
+trojan://a5117e42-e7e2-4de1-aea8-c41e2b3bc545@jp2.cnamazon.sbs:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.124.69-0801
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp1-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.168.70-2309
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awsjp18-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.193.217-1770
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awsjp16-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.64.182-0800
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.152.124-2306
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.152.124-0807
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@43.207.197.172:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.197.172-2313
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@awshk17-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AD%F0%9F%87%B0HK-16.163.1.43-0820
+trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@hk5.cnamazon.sbs:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.51.238-0821
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awshk7-tg-data.amazonwebservicess.com:443/?type=tcp&security=tls&sni=data.amazonwebservicess.com#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.50.230-0832
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@13.215.177.20:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.177.20-0831
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awssg19-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.177.20-0828
+trojan://4658738d-c3f1-4ebf-ad7a-ee603e3f9690@bgptw3.cnamazon.sbs:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%F0%9F%87%B9%F0%9F%87%BCTW-165.154.246.252-0167
+trojan://fcf74125-99de-4df3-af94-552a0b1ee021@vn2.microsoft-orgwly.vip:443/?type=tcp&security=tls&sni=tls.microsoft-orgwly.vip#%F0%9F%87%BB%F0%9F%87%B3VN-103.190.106.52-4963
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443/?type=tcp&security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-176.31.71.16-1355
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@my01.trojanyyds.xyz:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.187.106.125-1364
+trojan://01f34a05-ab03-469e-b8ec-86a6976354fa@sg.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-4.193.67.71-1365
+trojan://5c5ceb40-902b-11eb-945a-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.253.24.212-1385
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw02.trojanyyds.xyz:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.187.106.125-1391
+trojan://2f31805a-b9e0-4b7b-808f-c7971332d068@kh.mjt001.com:443/?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.218.162-1394
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@hk02.trojanyyds.xyz:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.205.61.106-1404
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw01.trojanyyds.xyz:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.187.106.125-1406
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@hk03.trojanyyds.xyz:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.205.61.106-1407
+trojan://c0cf56d4-08a7-4436-9e6a-3feebe142706@aujs.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-4.193.67.71-1413
+trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@dejs.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-4.194.127.114-1414
+trojan://0d234e81-52f2-44a7-8bcc-b9e737c3830f@tempest-us.aikun.online:443/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-216.73.156.189-1423
+trojan://74ce4fc1-af95-4291-863e-8bec07ed1e77@kr.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-20.205.157.206-1828
+trojan://23fd9f2e-7ff8-4d98-8099-8acce9499433@tj2.dalazhi.eu.org:443/?type=tcp&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-147.78.240.92-1844
+trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@uk.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-20.212.203.34-1863
+trojan://ed19b239-8e49-4b82-979a-24b84fa7b173@fscsg.fscloud123456789.com:443/?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.7.190-1933
+trojan://52cc5258-1ca4-4fb8-b685-66253e8c1de1@sg.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-20.205.157.206-1939
+trojan://353bd97c-a089-457f-a291-c19920dbe6d5@ca.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-20.212.203.34-1981
+trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@in.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-4.193.67.71-3735
+trojan://1d0a80ca-0f96-4016-ac51-c284dedd28a1@insaneguo2333.top:443/?type=tcp&security=tls#%F0%9F%87%B7%F0%9F%87%BARU-91.206.92.17-8008
+trojan://ZVqSTHcLasKIKGnzjnr8aHRPATiaTj5U@scottie.golfland.club:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-23.106.33.156-8648
+trojan://2c7cccd3-8de4-4f47-8fd6-b787e42ca4a2@fscsg.fscloud123456789.com:443/?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.7.190-11226
+trojan://331365d8-3ce5-484d-a226-33312bcc3217@hk04.trojanyyds.xyz:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.205.61.106-12247
+trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@fr.mjt001.com:443/?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-20.210.96.121-12412
+trojan://57ea91dd-cec3-4ecb-9e9d-31f1dea04bbd@itjs.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-4.194.127.114-12432
+trojan://fd7c4797-17ae-4195-b2bb-5612b083e180@ovotw.ovogreat.com:443/?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.178.55.229-12450
 
 
 
