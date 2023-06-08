@@ -92,7 +92,7 @@ vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@speed.cloudflare.com:8080/?type=ws&
 vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@lars.ns.cloudflare.com:8443/?type=ws&encryption=none&host=b4.iraniancp.click&path=%2F%3Fed%3D2048&security=tls&sni=iraniancp.click#Iranian%2BCypherpunks%2B8443
 vless://9d1c4003-5b9a-4552-c98f-4eaaffe4ada9@93.88.74.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=firefox&security=reality&pbk=Uhr5tVbWMaOSidsMcNxdBnM2OzO37nH106cPdmIoI1I&sid=d4dd377e#ICP%20REALITY
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.65:443/?type=ws&encryption=none&host=worker.iraniancp.click&path=%2F%3Fed%3D2048&security=tls&sni=iraniancp.click#Iranian%2BCypherpunks%2B443%2Bworker
-
+vless://ce46a621-a0ff-4816-f38a-c023e22f34bc@91.107.133.124:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=chrome&security=reality&pbk=DfuW50QGMg_7_GAcfV2W2pRrf_0zCn4d8SDWimQqkDE&sid=d4dd377e#Iranian%2BCypherpunks%2BReality2
 
 
 TROJAN
