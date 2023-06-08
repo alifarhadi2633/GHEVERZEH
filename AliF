@@ -2,34 +2,6 @@
 
 MIXED ADSL
 
-trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@us.disnet.gq:443/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-192.9.130.66-0141
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#%F0%9F%87%B3%F0%9F%87%B1NL-37.218.240.154-2336
-trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@168.119.64.242:443/?type=tcp&security=tls&sni=channel1.unlimiteddev.tk#%F0%9F%87%A9%F0%9F%87%AADE-168.119.64.242-2242
-trojan://a5117e42-e7e2-4de1-aea8-c41e2b3bc545@jp2.cnamazon.sbs:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.124.69-0801
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp1-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.168.70-2309
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awsjp18-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.193.217-1770
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awsjp16-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.64.182-0800
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.152.124-2306
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awsjp1-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.168.70-0802
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.152.124-0807
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@43.207.197.172:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.197.172-0799
-trojan://60454f67-7e28-4ddd-855f-e8216dfedf5a@awsjp2.gsjc.cfd:443/?type=tcp&security=tls&sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AD%F0%9F%87%B0HK-43.198.105.218-4884
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awskr2-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.76.33-0814
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@awskr4-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B0%F0%9F%87%B7KR-43.200.177.5-0813
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@awshk17-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%AD%F0%9F%87%B0HK-16.163.1.43-0820
-trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@hk5.cnamazon.sbs:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.51.238-0821
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awshk7-tg-data.amazonwebservicess.com:443/?type=tcp&security=tls&sni=data.amazonwebservicess.com#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.50.230-0832
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awssg17-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.159.193-0168
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@13.215.177.20:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.177.20-0831
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awshk7-tg-data.amazonwebservicess.com:443/?type=tcp&security=tls&sni=data.amazonwebservicess.com#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.50.230-2282
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awssg19-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.177.20-0828
-trojan://aef8d2c4-6ff7-4cc1-8d14-8596d3426223@vn1.microsoft-orgwly.vip:443/?type=tcp&security=tls&sni=tls.microsoft-orgwly.vip#%F0%9F%87%BB%F0%9F%87%B3VN-103.186.149.244-0405
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awssg7-tg-data.amazonwebservicess.com:443/?type=tcp&security=tls&sni=data.amazonwebservicess.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.163.108-2353
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awssg20-data.amazon-azure.com:443/?type=tcp&security=tls&sni=data.amazon-azure.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.200.63-1950
-trojan://b31eb45e-7f95-465f-8229-716058f6dc49@sihai.cnamazon.sbs:443/?type=tcp&security=tls&sni=tlsdata.cnamazon.sbs#%F0%9F%87%AD%F0%9F%87%B0HK-42.3.78.86-0823
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:804#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-0816
-trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@168.119.64.242:443/?type=tcp&security=tls&sni=channel1.unlimiteddev.tk#%F0%9F%87%A9%F0%9F%87%AADE-168.119.64.242-2251
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.178.87.37:810#%F0%9F%87%AB%F0%9F%87%B7FR-51.178.87.37-0844
 
 
 
